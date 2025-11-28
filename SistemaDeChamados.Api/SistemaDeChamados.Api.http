@@ -1,0 +1,6 @@
+@SistemaDeChamados.Api_HostAddress = http://localhost:5027
+
+GET {{SistemaDeChamados.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
