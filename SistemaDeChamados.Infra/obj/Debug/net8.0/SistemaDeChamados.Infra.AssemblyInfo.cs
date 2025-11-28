@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaDeChamados.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d85cf30ddf6e7a419887af63425ecfe65286d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaDeChamados.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaDeChamados.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
