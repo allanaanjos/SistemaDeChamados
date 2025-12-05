@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SistemaDeChamados.Api.props" />
+</Project>

@@ -1,4 +1,5 @@
 namespace SistemaDeChamados.Infra;
+
 using Microsoft.EntityFrameworkCore;
 using SistemaDeChamados.Domain;
 
@@ -33,3 +34,4 @@ public class AppDbContext : DbContext
     }
      
 }
+

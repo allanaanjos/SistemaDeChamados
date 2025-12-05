@@ -1,0 +1,12 @@
+C:\Users\allan\SistemaDeChamados\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\allan\SistemaDeChamados\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\allan\SistemaDeChamados\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\allan\SistemaDeChamados\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

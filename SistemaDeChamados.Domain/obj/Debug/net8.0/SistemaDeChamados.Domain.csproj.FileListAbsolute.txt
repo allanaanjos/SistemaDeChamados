@@ -1,0 +1,16 @@
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\bin\Debug\net8.0\SistemaDeChamados.Domain.deps.json
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\bin\Debug\net8.0\SistemaDeChamados.Domain.dll
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\bin\Debug\net8.0\SistemaDeChamados.Domain.pdb
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.csproj.AssemblyReference.cache
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.AssemblyInfoInputs.cache
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.AssemblyInfo.cs
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.csproj.CoreCompileInputs.cache
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.sourcelink.json
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaD.A477455E.Up2Date
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.dll
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\refint\SistemaDeChamados.Domain.dll
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\SistemaDeChamados.Domain.pdb
+C:\Users\allan\SistemaDeChamados\SistemaDeChamados.Domain\obj\Debug\net8.0\ref\SistemaDeChamados.Domain.dll
